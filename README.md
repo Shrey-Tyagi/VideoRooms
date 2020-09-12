@@ -12,57 +12,57 @@ A mobile app named “VideoRooms”, which will be having real-time group video 
 
 All Rooms:
 <br/>
-<img src="https://github.com/Shrey-Tyagi/VideoRooms/tree/master/screenshot/Screenshot_1592038367.png" width="250" height="500" />
+<img src="https://github.com/Shrey-Tyagi/VideoRooms/blob/master/screenshot/Screenshot_1592038367.png" width="250" height="500" />
 <br/>
 <br/>
 Room Creation:
 <br/>
-<img src="https://github.com/Shrey-Tyagi/VideoRooms/tree/master/screenshot/Screenshot_1592038430.png" width="250" height="500" />
+<img src="https://github.com/Shrey-Tyagi/VideoRooms/blob/master/screenshot/Screenshot_1592038430.png" width="250" height="500" />
 <br/>
 <br/>
 Room Descriptiom
 <br/>
-<img src="https://github.com/Shrey-Tyagi/VideoRooms/tree/master/screenshot/Screenshot_1592038533.png" width="250" height="500" />
+<img src="https://github.com/Shrey-Tyagi/VideoRooms/blob/master/screenshot/Screenshot_1592038533.png" width="250" height="500" />
 <br/>
 <br/>
 Room Share
 <br/>
-<img src="https://github.com/Shrey-Tyagi/VideoRooms/tree/master/screenshot/Screenshot_1592038558.png" width="250" height="500" />
+<img src="https://github.com/Shrey-Tyagi/VideoRooms/blob/master/screenshot/Screenshot_1592038558.png" width="250" height="500" />
 <br/>
 Open Link
 <br/>
-<img src="https://github.com/Shrey-Tyagi/VideoRooms/tree/master/screenshot/Screenshot_1592038614.png" width="250" height="500" />
-<img src="https://github.com/Shrey-Tyagi/VideoRooms/tree/master/screenshot/Screenshot_1592038630.png" width="250" height="500" />
+<img src="https://github.com/Shrey-Tyagi/VideoRooms/blob/master/screenshot/Screenshot_1592038614.png" width="250" height="500" />
+<img src="https://github.com/Shrey-Tyagi/VideoRooms/blob/master/screenshot/Screenshot_1592038630.png" width="250" height="500" />
 <br/>
 <br/>
 Protected Rooms:
 <br/>
-<img src="https://github.com/Shrey-Tyagi/VideoRooms/tree/master/screenshot/Screenshot_1592038526.png" width="250" height="500" />
+<img src="https://github.com/Shrey-Tyagi/VideoRooms/blob/master/screenshot/Screenshot_1592038526.png" width="250" height="500" />
 <br/>
 <br/>
 Chat
 <br/>
-<img src="https://github.com/Shrey-Tyagi/VideoRooms/tree/master/screenshot/chat.jpg" width="500" height="500" />
+<img src="https://github.com/Shrey-Tyagi/VideoRooms/blob/master/screenshot/chat.jpg" width="500" height="500" />
 <br/>
 <br/>
 Translation in Chat
 <br/>
-<img src="https://github.com/Shrey-Tyagi/VideoRooms/tree/master/screenshot/translate.jpg" width="500" height="500" />
+<img src="https://github.com/Shrey-Tyagi/VideoRooms/blob/master/screenshot/translate.jpg" width="500" height="500" />
 <br/>
 <br/>
 Change Host or user
 <br/>
-<img src="https://github.com/Shrey-Tyagi/VideoRooms/tree/master/screenshot/host.jpg" width="500" height="500" />
+<img src="https://github.com/Shrey-Tyagi/VideoRooms/blob/master/screenshot/host.jpg" width="500" height="500" />
 <br/>
 <br/>
 Add Queue
 <br/>
-<img src="https://github.com/Shrey-Tyagi/VideoRooms/tree/master/screenshot/queue.jpg" width="500" height="500" />
+<img src="https://github.com/Shrey-Tyagi/VideoRooms/blob/master/screenshot/queue.jpg" width="500" height="500" />
 <br/>
 <br/>
 Send emojies or stickers
 <br/>
-<img src="https://github.com/Shrey-Tyagi/VideoRooms/tree/master/screenshot/emoji.jpg" width="500" height="500" />
+<img src="https://github.com/Shrey-Tyagi/VideoRooms/blob/master/screenshot/emoji.jpg" width="500" height="500" />
 
 
 
